@@ -21,5 +21,5 @@ The ETL process performs the following steps:
 ├── extra_data.parquet         # Supplemental data (Parquet)
 ├── etl_pipeline.py            # Python script with the ETL logic
 ├── grocery_sales_c.csv        # Cleaned data output (Generated)
-├── avg_weekly_sales_per_month.csv  # Aggregated data output (Generated)
+├── agg_data.csv               # Aggregated data output (Generated)
 └── README.md                  # This file
